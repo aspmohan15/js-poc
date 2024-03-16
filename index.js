@@ -11,3 +11,11 @@ const loopFunction = (arr) => {
 
 loopFunction(value)
 
+
+function mohan() {
+  console.log("Mohan");
+
+}
+
+mohan()
+
